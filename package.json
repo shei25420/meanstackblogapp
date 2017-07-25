@@ -1,0 +1,28 @@
+{
+  "name": "meanstack2",
+  "version": "1.0.0",
+  "description": "Mean Stack\\",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shei25420/meanstackblogapp.git"
+  },
+  "keywords": [
+    "mean",
+    "angular2",
+    "nodejs"
+  ],
+  "author": "shei25420",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shei25420/meanstackblogapp/issues"
+  },
+  "homepage": "https://github.com/shei25420/meanstackblogapp#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
